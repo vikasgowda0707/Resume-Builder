@@ -56,7 +56,7 @@ export default function HomePage() {
             {/* Replace placeholders with template preview images */}
             <div className="bg-white rounded-xl shadow-md overflow-hidden">
               <img
-                src="/public/images/template1.png"
+                src="/images/Template1.png"
                 alt="Template 1"
                 className="w-full h-60 object-cover"
               />
@@ -71,7 +71,7 @@ export default function HomePage() {
             </div>
             <div className="bg-white rounded-xl shadow-md overflow-hidden">
               <img
-                src="/public/images/template2.png"
+                src="/images/Template2.png"
                 alt="Template 2"
                 className="w-full h-60 object-cover"
               />
@@ -86,7 +86,7 @@ export default function HomePage() {
             </div>
             <div className="bg-white rounded-xl shadow-md overflow-hidden">
               <img
-                src="/public/images/template3.png"
+                src="/images/Template3.png"
                 alt="Template 3"
                 className="w-full h-60 object-cover"
               />

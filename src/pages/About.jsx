@@ -27,7 +27,7 @@ export default function AboutUs() {
           </p>
         </div>
         <img
-          src="/images/about-mission.png"
+          src="/images/about.png"
           alt="Mission illustration"
           className="rounded-xl shadow-md"
         />

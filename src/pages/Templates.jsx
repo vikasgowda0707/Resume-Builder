@@ -41,7 +41,7 @@ export default function Templates() {
             {/* Preview Image */}
             <div
               className="h-80 bg-cover bg-center"
-              style={{ backgroundImage: `url(/public/images/template${id}.png)`  }}
+              style={{ backgroundImage: `url(/images/Template${id}.png)`  }}
             >
               <span className="sr-only  ">{templateNames[id]}</span>
 
